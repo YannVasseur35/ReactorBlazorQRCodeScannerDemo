@@ -1,0 +1,2 @@
+# ReactorBlazorQRCodeScannerDemo
+Demo for ReactorBlazorQRCodeScanner
